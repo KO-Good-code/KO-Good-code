@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://github-readme-stats.vercel.app/api?username=KO-Good-code&theme=dark&show_icons=true&include_all_commits=true&bg_color=20,313131,0d1117&hide=contribs&hide_border=true
 <!--
 **KO-Good-code/KO-Good-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
